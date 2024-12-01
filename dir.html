@@ -1,92 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   
-
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-
-<body style = "background-color: black" text = "white";><h1 style = "color: pink ";></text>
-    <center><BUTTON class = "button">Flashraya Studios</center></button>
-    </hov>  
-<br>
-
-<a href = "cov.html"><button class = "button2"><h2>Actors</h2></button></a>  &nbsp;   <a href = "dir.html"> <button class = "button2"><h2>Directors</button></body></html></h2></a>
-    </button>
-
+    <title>  A Flashraya Production</title>
     <style>
-  
-        .button{
-    background-color:black;
-    color: white;
-   
-    text-align: center;
-    text-decoration: wavy;
-    padding: 12px 12px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    display: grid;
-    font-size: 30px;
-    opacity: 0.8;
-    transition: 0.2s;
-    border-radius: 7px;
-    border-width: 5px;
-    border-style: transparent;
-    
-  
-    border-color: #64bfa4;                              
-}
-.button:hover {opacity: 1;
-color: aliceblue;
-border-color: #FF0883;
-font-weight: bold;
-border-width: 6px;
-font-size: 35px;
-}
-/*div{
-     background-color: black;
-    color: white;
-    padding: 15px 15px;
-    opacity: 0.6;
-    transition: 0.2s;
-    border-radius: 8px;
-    border-width: 8px;
-    border-style:;
-   
-    font-family:cursive;
-    border-color: purple;
-}
-div:hover { opacity: 1;
-    background-color: white;
-    color: black;}*/
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+        
+        .button {
+            background-color: black;
+            color: white;
+            text-align: center;
+            text-decoration: wavy;
+            padding: 12px 12px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            display: inline-block;
+            font-size: 30px;
+            opacity: 0.8;
+            transition: 0.2s;
+            border-radius: 7px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #64bfa4;
+            animation: flashAnimation 3.5s infinite;
+        }
 
+        .button:hover {
+            opacity: 1;
+            color: rgb(68, 186, 255);
+            border-color: #7bff00;
+        
+            border-width: 5.2px;
+            font-size: 32px;
+            animation: glowSpin 1s; /* Unique hover animation */
+            box-shadow: 0 0 8px #FF0883, 0 0 15px #FF0883;
+            
+        }
 
-    .button2 {
-    width: 120px;
-    height: 75px;
-    background-color: black;
-    text-decoration: wavy;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 15px;
-    color: white;
-    border-style: solid;
-    padding:8px;
-    border-radius:10px;
-    border-width: 2px;
-    opacity: 0.8;
-    transition: 0.2s;
-    border-color: #c8fd3d;
-    text-align: center;
-}
-.button2:hover { opacity: 1;
-    background-color: rgb(255, 255, 255);
-    color: black;
-    border: 0px;
-
-;}
+        @keyframes flashAnimation {
+            0% {
+                transform: scale(1);
+                color: #000000;
+            }
+            50% {
+                transform: scale(1.2);
+                color: #ff00d4;
+            }
+            100% {
+                transform: scale(1);
+                color: #000000;
+            }
+        }
+        @keyframes glowSpin {
+            0% {
+                transform: rotate(0deg) scale(1);
+                box-shadow: 0 0 5px #FF0883;
+            }
+            50% {
+                transform: rotate(10deg) scale(1.05);
+                box-shadow: 0 0 8px #FF0883, 0 0 15px #FF0883;
+            }
+            100% {
+                transform: rotate(0deg) scale(1);
+                box-shadow: 0 0 5px #FF0883;
+            }
+        }
 
 .p {
         
@@ -388,8 +371,8 @@ div:hover { opacity: 1;
     
     .image-hoverq1{
        
-       width: 270px;
-            height: 230px;
+        width: 320px;
+        height: 280px;
             
             background-size: cover;
       
@@ -407,8 +390,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq2 {
        background-image: url("q2.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -421,8 +404,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq3 {
        background-image: url("q3.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -435,8 +418,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq4 {
        background-image: url("q4.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -449,8 +432,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq5 {
        background-image: url("q5.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -463,9 +446,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq6 {
        background-image: url("q6.jpg");
-       width: 270px;
-            height: 230px;
-            
+       width: 320px;
+       height: 280px;
             background-size: cover;
       filter: grayscale(100%);
        transition: 0.3s  ease-in-out;
@@ -477,8 +459,8 @@ div:hover { opacity: 1;
     }  
     .image-hoverq7 {
        background-image: url("q7.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+            height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -491,8 +473,8 @@ div:hover { opacity: 1;
     }  
     .image-hoverq8 {
        background-image: url("q8.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -505,8 +487,8 @@ div:hover { opacity: 1;
     }
     .image-hoverq9 {
        background-image: url("q9.jpg");
-       width: 270px;
-            height: 230px;
+       width: 320px;
+            height: 280px;
             
             background-size: cover;
       filter: grayscale(100%);
@@ -873,59 +855,59 @@ animation-name: myfirst 0.5 seconds;
         }
         .image-hoverq1-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
         .image-hoverq2-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
         .image-hoverq3-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }.image-hoverq4-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }.image-hoverq5-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
           
          
         }.image-hoverq6-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
        
          
         }.image-hoverq7-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }.image-hoverq8-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
         .image-hoverq9-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }.image-hoverq10-container {
@@ -1523,7 +1505,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q1.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1533,7 +1515,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q2.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1543,7 +1525,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q3.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1553,7 +1535,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q4.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1562,7 +1544,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q5.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1572,7 +1554,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q6.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1582,7 +1564,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q7.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1591,7 +1573,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q8.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1600,7 +1582,7 @@ animation-name: myfirst 0.5 seconds;
             
             background-image: url("q9.jpg");
            
-            background-size: 200px 230px;
+            background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -1809,7 +1791,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } 
@@ -1824,7 +1806,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } 
@@ -1839,7 +1821,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -1854,7 +1836,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -1870,7 +1852,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } .image-hoverq6-text {
@@ -1884,7 +1866,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 15px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -1899,7 +1881,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 13px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -1914,7 +1896,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -1929,7 +1911,7 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 15px;
+            font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
@@ -3463,7 +3445,17 @@ opacity: 1;
         
     </style>
 </head>
+
+
 <body>
+    <h1 style="color: pink;"></h1>
+    <center>
+        <button class="button">Flashraya Studios</button>
+    </center>
+    <br>
+    <br>
+
+
     <div class="container">
         <div class="p">SELECT A DIRECTOR</div><br>
         <a href="javascript:void(0);" id="flag-link">
@@ -3630,7 +3622,7 @@ opacity: 1;
         
     </table>
  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     
     <table class="animated-container">
         <tr>
@@ -3639,7 +3631,7 @@ opacity: 1;
         </tr>
         
     </table>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <table class="animated-container">
         <tr>
             <td><div class = "image-hoverq7-container"> <div class="image-hoverq7"><audio id="audio19" src="q7.mov"></div>
@@ -3647,7 +3639,7 @@ opacity: 1;
         </tr>
         
     </table>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <table class="animated-container">
         <tr>
             <td><div class = "image-hoverq8-container"> <div class="image-hoverq8"><audio id="audio20" src="q8.mp3"></div>
@@ -3655,7 +3647,7 @@ opacity: 1;
         </tr>
         
     </table>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <table class="animated-container">
         <tr>
             <td><div class = "image-hoverq9-container"> <div class="image-hoverq9"><audio id="audio21" src="q9.mov"></div>
@@ -3663,7 +3655,7 @@ opacity: 1;
         </tr>
         
     </table>
-     &nbsp;&nbsp;    &nbsp;&nbsp;    &nbsp;&nbsp;    &nbsp;&nbsp;    &nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;
     <table class="animated-container">
         <tr>
             <td><div class = "image-hoverq10-container"> <div class="image-hoverq10"><audio id="audio22" src="q10.mp3"></div>
@@ -3676,9 +3668,10 @@ opacity: 1;
     &nbsp;&nbsp;&nbsp;&nbsp;
     
   
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    
 
     <script>
+  
        const flags = [
     "fi.jpg", "quen.jpg", "bel.jpg", "czech.jpg", "croatia.jpg",
     "denmark.jpg", "england.jpg", "france.jpg", "georgia.jpg", "ger.jpg",

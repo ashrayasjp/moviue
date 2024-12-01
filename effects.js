@@ -1,9 +1,5 @@
  const flags = [
-    "fi.jpg", "quen.jpg", "bel.jpg", "czech.jpg", "croatia.jpg",
-    "denmark.jpg", "england.jpg", "france.jpg", "georgia.jpg", "ger.jpg",
-    "hungary.jpg", "italy.jpg", "ned.jpg", "poland.jpg", "port.jpg",
-    "rom.jpg", "scot.jpg", "serbia.jpg", "slovakia.jpg", "slovenia.jpg",
-    "spain.jpg", "swit.jpg", "turkey.jpg", "ukraine.jpg"
+    "fi.jpg", "quen.jpg", "hi.jpg"
 ];
 
 

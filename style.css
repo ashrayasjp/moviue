@@ -4,8 +4,7 @@
             color: white;
             text-align: center;
         }
-        
-        .button {
+                .button {
             background-color: black;
             color: white;
             text-align: center;
@@ -510,6 +509,154 @@
         width: 150px;
             height: 200px;
     }
+    .image-hoverhi1{
+       
+        width: 320px;
+        height: 280px;
+            
+            background-size: cover;
+      
+       background-image: url("h1.jpg");
+           
+           background-size: 200px 230px;
+           filter: grayscale(100%);
+           transition: 0.3s ease-in-out;
+           background-repeat: no-repeat;
+        
+    }
+    .image-hoverhi1:hover { 
+        background-image: url("h1.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi2 {
+       background-image: url("h2.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi2:hover { 
+        background-image: url("h2.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverq3 {
+       background-image: url("q3.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq3:hover { 
+        background-image: url("q3.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverq4 {
+       background-image: url("q4.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq4:hover { 
+        background-image: url("q4.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverq5 {
+       background-image: url("q5.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq5:hover { 
+        background-image: url("q5.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverq6 {
+       background-image: url("q6.jpg");
+       width: 320px;
+       height: 280px;
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq6:hover { 
+        background-image: url("q6.jpg");
+        filter: grayscale(0%);
+    }  
+    .image-hoverq7 {
+       background-image: url("q7.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq7:hover { 
+        background-image: url("q7.jpg");
+        filter: grayscale(0%);
+    }  
+    .image-hoverq8 {
+       background-image: url("q8.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq8:hover { 
+        background-image: url("q8.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverq9 {
+       background-image: url("q9.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq9:hover { 
+        background-image: url("q9.jpg");
+        filter: grayscale(0%);
+    }  
+     .image-hoverq10 {
+       background-image: url("q10.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverq10:hover { 
+        background-image: url("q10.jpg");
+        filter: grayscale(0%);
+    }
+    table {
+        width: 150px;
+            height: 200px;
+    }
     th {
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
             text-decoration: wavy;
@@ -717,7 +864,7 @@ animation-name: myfirst 0.5 seconds;
             background: -webkit-linear-gradient(rgb(145, 255, 0), rgb(163, 250, 49), rgb(200, 240, 147)); -webkit-background-clip: text; -webkit-text-fill-color:transparent;
         font-size: 20px; }
         .quentin { background: -webkit-linear-gradient(rgb(255, 0, 170), rgb(250, 48, 183), rgb(250, 142, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
-        .belgium {  background: -webkit-linear-gradient( black, yellow, red); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
+        .hitchcock {  background: -webkit-linear-gradient( black, rgb(136, 136, 126), rgb(255, 214, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .czech-republic {  background: -webkit-linear-gradient(blue , #eee, red); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .croatia { background: -webkit-linear-gradient( red, white , lightblue); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .denmark {  background: -webkit-linear-gradient( red, rgb(255, 181, 181)); -webkit-background-clip: text; -webkit-text-fill-color:transparent;}
@@ -885,6 +1032,70 @@ animation-name: myfirst 0.5 seconds;
        
          
         }.image-hoverq7-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverq8-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverq9-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverq10-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverhi1-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverhi2-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverh3-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverh4-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverh5-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+          
+         
+        }.image-hoverh6-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+       
+         
+        }.image-hoverh7-container {
             position: relative;
             width: 250px;
             height: 300px;
@@ -1589,6 +1800,101 @@ animation-name: myfirst 0.5 seconds;
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
+        .image-hoverhi1{
+            
+            background-image: url("h1.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi2{
+            
+            background-image: url("h2.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverq3{
+            
+            background-image: url("q3.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverq4{
+            
+            background-image: url("q4.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverq5{
+            
+            background-image: url("q5.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverq6{
+            
+            background-image: url("q6.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverq7{
+            
+            background-image: url("q7.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverq8{
+            
+            background-image: url("q8.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverq9{
+            
+            background-image: url("q9.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverq10{
+            
+            background-image: url("q10.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
        
         .image-hoverf1-text {
             position: absolute;
@@ -1789,6 +2095,156 @@ animation-name: myfirst 0.5 seconds;
             font-style: italic;
         } 
         .image-hoverq2-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } 
+        .image-hoverq3-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverq4-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+         
+         .image-hoverq5-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hoverq6-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverq7-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverq8-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverq9-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverq10-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 14px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi1-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 20px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } 
+        .image-hoverhi2-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2936,6 +3392,38 @@ animation-name: myfirst 0.5 seconds;
         }.image-hoverq10-container:hover .image-hoverq10 {
             background-image: url("q10.jpg");
             filter: grayscale(0%);
+        }
+        .image-hoverhi1-container:hover .image-hoverhi1 {
+            background-image: url("h1.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi2-container:hover .image-hoverhi2 {
+            background-image: url("h2.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq3-container:hover .image-hoverq3 {
+            background-image: url("q3.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq4-container:hover .image-hoverq4 {
+            background-image: url("q4.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hoverq5-container:hover .image-hoverq5 {
+            background-image: url("q5.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq6-container:hover .image-hoverq6 {
+            background-image: url("q6.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq7-container:hover .image-hoverq7 {
+            background-image: url("q7.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq8-container:hover .image-hoverq8 {
+            background-image: url("q8.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq9-container:hover .image-hoverq9 {
+            background-image: url("q9.jpg");
+            filter: grayscale(0%);
+        }.image-hoverq10-container:hover .image-hoverq10 {
+            background-image: url("q10.jpg");
+            filter: grayscale(0%);
         }.image-hovera23-container:hover .image-hovera23 {
             background-image: url("23.jpg");
             filter: grayscale(0%);
@@ -3110,7 +3598,59 @@ opacity: 1;
            bottom: 0;
 
 opacity: 1;
-       }.image-hovera23-container:hover .image-hovera23-text {
+       }
+       .image-hoverhi1-container:hover .image-hoverhi1-text {
+           
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverhi2-container:hover .image-hoverhi2-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq3-container:hover .image-hoverq3-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq4-container:hover .image-hoverq4-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }
+    .image-hoverq5-container:hover .image-hoverq5-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq6-container:hover .image-hoverq6-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq7-container:hover .image-hoverq7-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq8-container:hover .image-hoverq8-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq9-container:hover .image-hoverq9-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverq10-container:hover .image-hoverq10-text {
+        
+        bottom: 0;
+
+opacity: 1;
+    }.image-hovera23-container:hover .image-hovera23-text {
            
            bottom: 0;
 

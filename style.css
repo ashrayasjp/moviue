@@ -1015,38 +1015,38 @@
 .animated-container:nth-of-type(4) { animation-delay: 0.6s; }
 .animated-container:nth-of-type(5) { animation-delay: 0.8s; }
 .animated-container:nth-of-type(6) { animation-delay: 1s; }
-.animated-container:nth-of-type(7) { animation-delay: 1.2s; }
-.animated-container:nth-of-type(8) { animation-delay: 1.4s; }
-.animated-container:nth-of-type(9) { animation-delay: 1.6s; }
-.animated-container:nth-of-type(10) { animation-delay: 1.8s; }
+.animated-container:nth-of-type(7) { animation-delay: 2.2s; }
+.animated-container:nth-of-type(8) { animation-delay: 2s; }
+.animated-container:nth-of-type(9) { animation-delay: 1.8s; }
+.animated-container:nth-of-type(10) { animation-delay: 1.6s; }
 
 /* First sequence group (extra 1s after 10 elements) */
-.animated-container:nth-of-type(11) { animation-delay: 2.8s; }
-.animated-container:nth-of-type(15) { animation-delay: 3s; }
-.animated-container:nth-of-type(12) { animation-delay: 3.2s; }
-.animated-container:nth-of-type(13) { animation-delay: 3.4s; }
-.animated-container:nth-of-type(14) { animation-delay: 3.6s; }
+.animated-container:nth-of-type(11) { animation-delay: 1.4s; }
+.animated-container:nth-of-type(15) { animation-delay: 2.8s; }
+.animated-container:nth-of-type(12) { animation-delay: 1.2s; }
+.animated-container:nth-of-type(13) { animation-delay: 2.4s; }
+.animated-container:nth-of-type(14) { animation-delay: 2.6s; }
 
 /* Second sequence group */
-.animated-container:nth-of-type(16) { animation-delay: 4.6s; }
-.animated-container:nth-of-type(20) { animation-delay: 4.8s; }
-.animated-container:nth-of-type(17) { animation-delay: 5s; }
-.animated-container:nth-of-type(18) { animation-delay: 5.2s; }
-.animated-container:nth-of-type(19) { animation-delay: 5.4s; }
+.animated-container:nth-of-type(16) { animation-delay: 3s; }
+.animated-container:nth-of-type(20) { animation-delay: 4.4s; }
+.animated-container:nth-of-type(17) { animation-delay: 3.2s; }
+.animated-container:nth-of-type(18) { animation-delay: 3.4s; }
+.animated-container:nth-of-type(19) { animation-delay: 4.6s; }
 
 /* Third sequence group (extra 1s after 20 elements) */
-.animated-container:nth-of-type(21) { animation-delay: 6.4s; }
-.animated-container:nth-of-type(25) { animation-delay: 6.6s; }
-.animated-container:nth-of-type(22) { animation-delay: 6.8s; }
-.animated-container:nth-of-type(23) { animation-delay: 7s; }
-.animated-container:nth-of-type(24) { animation-delay: 7.2s; }
+.animated-container:nth-of-type(21) { animation-delay: 4.2s; }
+.animated-container:nth-of-type(25) { animation-delay: 4.8s; }
+.animated-container:nth-of-type(22) { animation-delay: 4s; }
+.animated-container:nth-of-type(23) { animation-delay: 3.8s; }
+.animated-container:nth-of-type(24) { animation-delay: 3.6s; }
 
 /* Fourth sequence group */
-.animated-container:nth-of-type(26) { animation-delay: 8.2s; }
-.animated-container:nth-of-type(30) { animation-delay: 8.4s; }
-.animated-container:nth-of-type(27) { animation-delay: 8.6s; }
-.animated-container:nth-of-type(28) { animation-delay: 8.8s; }
-.animated-container:nth-of-type(29) { animation-delay: 9s; }
+.animated-container:nth-of-type(26) { animation-delay: 5s; }
+.animated-container:nth-of-type(30) { animation-delay: ; }
+.animated-container:nth-of-type(27) { animation-delay: 5.2s; }
+.animated-container:nth-of-type(28) { animation-delay: 5.4s; }
+.animated-container:nth-of-type(29) { animation-delay: ; }
 
 /* Fifth sequence group (extra 1s after 30 elements) */
 .animated-container:nth-of-type(31) { animation-delay: 10s; }

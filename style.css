@@ -542,8 +542,8 @@
         background-image: url("h2.jpg");
         filter: grayscale(0%);
     }
-    .image-hoverq3 {
-       background-image: url("q3.jpg");
+    .image-hoverhi3 {
+       background-image: url("h3.jpg");
        width: 320px;
        height: 280px;
             
@@ -552,12 +552,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq3:hover { 
-        background-image: url("q3.jpg");
+    .image-hoverhi3:hover { 
+        background-image: url("h3.jpg");
         filter: grayscale(0%);
     }
-    .image-hoverq4 {
-       background-image: url("q4.jpg");
+    .image-hoverhi4 {
+       background-image: url("h4.jpg");
        width: 320px;
        height: 280px;
             
@@ -566,12 +566,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq4:hover { 
-        background-image: url("q4.jpg");
+    .image-hoverhi4:hover { 
+        background-image: url("h4.jpg");
         filter: grayscale(0%);
     }
-    .image-hoverq5 {
-       background-image: url("q5.jpg");
+    .image-hoverhi5 {
+       background-image: url("h5.jpg");
        width: 320px;
        height: 280px;
             
@@ -580,12 +580,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq5:hover { 
-        background-image: url("q5.jpg");
+    .image-hoverhi5:hover { 
+        background-image: url("h5.jpg");
         filter: grayscale(0%);
     }
-    .image-hoverq6 {
-       background-image: url("q6.jpg");
+    .image-hoverhi6 {
+       background-image: url("h6.jpg");
        width: 320px;
        height: 280px;
             background-size: cover;
@@ -593,12 +593,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq6:hover { 
-        background-image: url("q6.jpg");
+    .image-hoverhi6:hover { 
+        background-image: url("h6.jpg");
         filter: grayscale(0%);
     }  
-    .image-hoverq7 {
-       background-image: url("q7.jpg");
+    .image-hoverhi7 {
+       background-image: url("h7.jpg");
        width: 320px;
             height: 280px;
             
@@ -607,12 +607,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq7:hover { 
-        background-image: url("q7.jpg");
+    .image-hoverhi7:hover { 
+        background-image: url("h7.jpg");
         filter: grayscale(0%);
     }  
-    .image-hoverq8 {
-       background-image: url("q8.jpg");
+    .image-hoverhi8 {
+       background-image: url("h8.jpg");
        width: 320px;
        height: 280px;
             
@@ -621,12 +621,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq8:hover { 
-        background-image: url("q8.jpg");
+    .image-hoverhi8:hover { 
+        background-image: url("h8.jpg");
         filter: grayscale(0%);
     }
-    .image-hoverq9 {
-       background-image: url("q9.jpg");
+    .image-hoverhi9 {
+       background-image: url("h9.jpg");
        width: 320px;
             height: 280px;
             
@@ -635,12 +635,12 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq9:hover { 
-        background-image: url("q9.jpg");
+    .image-hoverhi9:hover { 
+        background-image: url("h9.jpg");
         filter: grayscale(0%);
     }  
-     .image-hoverq10 {
-       background-image: url("q10.jpg");
+     .image-hoverhi10 {
+       background-image: url("h10.jpg");
        width: 320px;
             height: 280px;
             
@@ -649,10 +649,284 @@
        transition: 0.3s  ease-in-out;
         
     }
-    .image-hoverq10:hover { 
-        background-image: url("q10.jpg");
+    .image-hoverhi10:hover { 
+        background-image: url("h10.jpg");
         filter: grayscale(0%);
     }
+    .image-hoverhi11{
+       
+        width: 320px;
+        height: 280px;
+            
+            background-size: cover;
+      
+       background-image: url("h11.jpg");
+           
+           background-size: 200px 230px;
+           filter: grayscale(100%);
+           transition: 0.3s ease-in-out;
+           background-repeat: no-repeat;
+        
+    }
+    .image-hoverhi11:hover { 
+        background-image: url("h11.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi12 {
+       background-image: url("h12.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi12:hover { 
+        background-image: url("h12.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi13 {
+       background-image: url("h13.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi13:hover { 
+        background-image: url("h13.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi14 {
+       background-image: url("h14.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi14:hover { 
+        background-image: url("h14.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi15 {
+       background-image: url("h15.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi15:hover { 
+        background-image: url("h15.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi16 {
+       background-image: url("h16.jpg");
+       width: 320px;
+       height: 280px;
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi16:hover { 
+        background-image: url("h16.jpg");
+        filter: grayscale(0%);
+    }  
+    .image-hoverhi17 {
+       background-image: url("h17.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi17:hover { 
+        background-image: url("h17.jpg");
+        filter: grayscale(0%);
+    }  
+    .image-hoverhi18 {
+       background-image: url("h18.jpg");
+       width: 320px;
+       height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi18:hover { 
+        background-image: url("h18.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi19 {
+       background-image: url("h19.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi19:hover { 
+        background-image: url("h19.jpg");
+        filter: grayscale(0%);
+    }  
+     .image-hoverhi20 {
+       background-image: url("h20.jpg");
+       width: 320px;
+            height: 280px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverhi20:hover { 
+        background-image: url("h20.jpg");
+        filter: grayscale(0%);
+    }
+    .image-hoverhi21 {
+        background-image: url("h21.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi21:hover { 
+         background-image: url("h21.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi22 {
+        background-image: url("h22.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi22:hover { 
+         background-image: url("h22.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi23 {
+        background-image: url("h23.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi23:hover { 
+         background-image: url("h23.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi24 {
+        background-image: url("h24.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi24:hover { 
+         background-image: url("h24.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi25 {
+        background-image: url("h25.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi25:hover { 
+         background-image: url("h25.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi26 {
+        background-image: url("h26.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi26:hover { 
+         background-image: url("h26.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi27 {
+        background-image: url("h27.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi27:hover { 
+         background-image: url("h27.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi28 {
+        background-image: url("h28.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi28:hover { 
+         background-image: url("h28.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi29 {
+        background-image: url("h29.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi29:hover { 
+         background-image: url("h29.jpg");
+         filter: grayscale(0%);
+     }
+     
+     
+     
+     
     table {
         width: 150px;
             height: 200px;
@@ -1071,518 +1345,174 @@ animation-name: myfirst 0.5 seconds;
             overflow: hidden;
          
         }
-        .image-hoverh3-container {
+        .image-hoverhi3-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
-        }.image-hoverh4-container {
+        }.image-hoverhi4-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
-        }.image-hoverh5-container {
+        }.image-hoverhi5-container {
             position: relative;
             width: 250px;
             height: 300px;
           
          
-        }.image-hoverh6-container {
+        }.image-hoverhi6-container {
             position: relative;
             width: 250px;
             height: 300px;
        
          
-        }.image-hoverh7-container {
+        }.image-hoverhi7-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
-        }.image-hoverq8-container {
+        }.image-hoverhi8-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
         }
-        .image-hoverq9-container {
+        .image-hoverhi9-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
-        }.image-hoverq10-container {
+        }.image-hoverhi10-container {
             position: relative;
             width: 250px;
             height: 300px;
             overflow: hidden;
          
-        }.image-hovera13-container {
+        }.image-hoverhi11-container {
             position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera14-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera15-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
-        .image-hovera16-container {
+        .image-hoverhi12-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
-        .image-hovera17-container {
+        .image-hoverhi13-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
-        .image-hovera18-container {
+        .image-hoverhi14-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
-        }
-        .image-hovera19-container {
+        }.image-hoverhi15-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
-        }
-        .image-hovera20-container {
+        }.image-hoverhi16-container {
             position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera21-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        } .image-hovera22-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        } .image-hovera23-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        } .image-hovera24-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera25-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        } .image-hovera27-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera28-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera29-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera30-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera31-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera32-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera33-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera34-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        
-         
-        }.image-hovera35-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera36-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera37-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera38-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera39-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera40-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera41-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera42-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera43-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        
-         
-        }.image-hovera44-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera45-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera46-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera47-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera48-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera49-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera50-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera51-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera52-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera53-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera54-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera55-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera56-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera57-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera58-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera59-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hovera60-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera61-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera62-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hovera63-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }      
-         .image-hovera64-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }        
-        .image-hovera65-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }        
-        .image-hovera66-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }        
-        .image-hovera67-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hoverb1-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hoverb2-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hoverb3-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb4-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb5-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
           
          
-        }.image-hoverb6-container {
+        }.image-hoverhi17-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
        
          
-        }.image-hoverb7-container {
+        }.image-hoverhi18-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
-        }.image-hoverb8-container {
+        }.image-hoverhi19-container {
             position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }
-        .image-hoverb9-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb10-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb11-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb12-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb13-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb14-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-         
-        }.image-hoverb15-container {
-            position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
-        .image-hoverb16-container {
+        .image-hoverhi20-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverhi21-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverhi22-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hoverhi23-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
         }
-        .image-hoverb17-container {
+        .image-hoverhi24-container {
             position: relative;
-            width: 200px;
-            height: 250px;
+            width: 250px;
+            height: 300px;
             overflow: hidden;
          
+        }.image-hoverhi24-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverhi25-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }.image-hoverhi26-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverhi27-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }.image-hoverhi28-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+       
         }
         .image-hoverd1-container {
             position: relative;
@@ -1820,9 +1750,9 @@ animation-name: myfirst 0.5 seconds;
             background-repeat: no-repeat;
         }
         
-        .image-hoverq3{
+        .image-hoverhi3{
             
-            background-image: url("q3.jpg");
+            background-image: url("h3.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
@@ -1830,28 +1760,18 @@ animation-name: myfirst 0.5 seconds;
             background-repeat: no-repeat;
         }
         
-        .image-hoverq4{
+        .image-hoverhi4{
             
-            background-image: url("q4.jpg");
+            background-image: url("h4.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
-        .image-hoverq5{
+        .image-hoverhi5{
             
-            background-image: url("q5.jpg");
-           
-            background-size: 250px 280px;
-            filter: grayscale(100%);
-            transition: 0.3s ease-in-out;
-            background-repeat: no-repeat;
-        }
-        
-        .image-hoverq6{
-            
-            background-image: url("q6.jpg");
+            background-image: url("h5.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
@@ -1859,42 +1779,225 @@ animation-name: myfirst 0.5 seconds;
             background-repeat: no-repeat;
         }
         
-        .image-hoverq7{
+        .image-hoverhi6{
             
-            background-image: url("q7.jpg");
+            background-image: url("h6.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
-        .image-hoverq8{
+        
+        .image-hoverhi7{
             
-            background-image: url("q8.jpg");
+            background-image: url("h7.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
-        .image-hoverq9{
+        .image-hoverhi8{
             
-            background-image: url("q9.jpg");
+            background-image: url("h8.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
-        .image-hoverq10{
+        .image-hoverhi9{
             
-            background-image: url("q10.jpg");
+            background-image: url("h9.jpg");
            
             background-size: 250px 280px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
+        .image-hoverhi10{
+            
+            background-image: url("h10.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi11{
+            
+            background-image: url("h11.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi12{
+            
+            background-image: url("h12.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi13{
+            
+            background-image: url("h13.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi14{
+            
+            background-image: url("h14.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi15{
+            
+            background-image: url("h15.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi16{
+            
+            background-image: url("h16.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi17{
+            
+            background-image: url("h17.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi18{
+            
+            background-image: url("h18.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi19{
+            
+            background-image: url("h19.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi20{
+            
+            background-image: url("h20.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi21{
+            
+            background-image: url("h21.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi22{
+            
+            background-image: url("h22.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi23{
+            
+            background-image: url("h23.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi24{
+            
+            background-image: url("h24.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi25{
+            
+            background-image: url("h25.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi26{
+            
+            background-image: url("h26.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+        .image-hoverhi27{
+            
+            background-image: url("h27.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverhi28{
+            
+            background-image: url("h28.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+     
        
         .image-hoverf1-text {
             position: absolute;
@@ -2259,7 +2362,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } 
-        .image-hoverq3-text {
+        .image-hoverhi3-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2274,7 +2377,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hoverq4-text {
+        .image-hoverhi4-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2290,7 +2393,7 @@ animation-name: myfirst 0.5 seconds;
             font-style: italic;
         }
          
-         .image-hoverq5-text {
+         .image-hoverhi5-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2304,22 +2407,7 @@ animation-name: myfirst 0.5 seconds;
             font-size: 20px;
             font-family: 'Ancient Gothic';
             font-style: italic;
-        } .image-hoverq6-text {
-            position: absolute;
-            bottom: -40px;
-            left: 0;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0);
-        color: white;
-            text-align: center;
-            padding: 0;
-            opacity: 0;
-            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 20px;
-            font-family: 'Ancient Gothic';
-            font-style: italic;
-        }
-        .image-hoverq7-text {
+        } .image-hoverhi6-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2334,7 +2422,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hoverq8-text {
+        .image-hoverhi7-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2349,52 +2437,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hoverq9-text {
-            position: absolute;
-            bottom: -40px;
-            left: 0;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0);
-        color: white;
-            text-align: center;
-            padding: 0;
-            opacity: 0;
-            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 20px;
-            font-family: 'Ancient Gothic';
-            font-style: italic;
-        }
-        .image-hoverq10-text {
-            position: absolute;
-            bottom: -40px;
-            left: 0;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0);
-        color: white;
-            text-align: center;
-            padding: 0;
-            opacity: 0;
-            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 14px;
-            font-family: 'Ancient Gothic';
-            font-style: italic;
-        }
-        .image-hovera22-text {
-            position: absolute;
-            bottom: -40px;
-            left: 0;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0);
-        color: white;
-            text-align: center;
-            padding: 0;
-            opacity: 0;
-            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 15px;
-            font-family: 'Ancient Gothic';
-            font-style: italic;
-        }
-        .image-hovera23-text {
+        .image-hoverhi8-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2409,7 +2452,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera24-text {
+        .image-hoverhi9-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2420,11 +2463,71 @@ animation-name: myfirst 0.5 seconds;
             padding: 0;
             opacity: 0;
             transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 12px;
+            font-size: 18px;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera25-text {
+        .image-hoverhi10-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi11-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi12-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi13-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi14-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2441,7 +2544,7 @@ animation-name: myfirst 0.5 seconds;
         }
         
            
-        .image-hovera27-text {
+        .image-hoverhi15-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2456,7 +2559,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera28-text {
+        .image-hoverhi16-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2471,7 +2574,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera29-text {
+        .image-hoverhi17-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2486,7 +2589,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera30-text {
+        .image-hoverhi18-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2501,22 +2604,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera31-text {
-            position: absolute;
-            bottom: -40px;
-            left: 0;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0);
-        color: white;
-            text-align: center;
-            padding: 0;
-            opacity: 0;
-            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
-            font-size: 18px;
-            font-family: 'Ancient Gothic';
-            font-style: italic;
-        }
-        .image-hovera32-text {
+        .image-hoverhi19-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2531,7 +2619,22 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera33-text {
+        .image-hoverhi20-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 16px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hoverhi21-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2546,7 +2649,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-        .image-hovera34-text {
+        .image-hoverhi22-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2562,7 +2665,7 @@ animation-name: myfirst 0.5 seconds;
             font-style: italic;
         }
       
-        .image-hovera35-text {
+        .image-hoverhi23-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2578,7 +2681,7 @@ animation-name: myfirst 0.5 seconds;
             font-style: italic;
 
         } 
-        .image-hovera36-text {
+        .image-hoverhi24-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2594,7 +2697,7 @@ animation-name: myfirst 0.5 seconds;
             font-style: italic;
 
         } 
-        .image-hovera37-text {
+        .image-hoverhi25-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2609,7 +2712,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-         .image-hovera38-text {
+         .image-hoverhi26-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2624,7 +2727,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } 
-        .image-hovera39-text {
+        .image-hoverhi27-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -2639,7 +2742,7 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         } 
-        .image-hovera40-text {
+        .image-hoverhi28-text {
             position: absolute;
             bottom: -40px;
             left: 0;
@@ -3399,85 +3502,85 @@ animation-name: myfirst 0.5 seconds;
         }.image-hoverhi2-container:hover .image-hoverhi2 {
             background-image: url("h2.jpg");
             filter: grayscale(0%);
-        }.image-hoverq3-container:hover .image-hoverq3 {
-            background-image: url("q3.jpg");
+        }.image-hoverhi3-container:hover .image-hoverhi3 {
+            background-image: url("h3.jpg");
             filter: grayscale(0%);
-        }.image-hoverq4-container:hover .image-hoverq4 {
-            background-image: url("q4.jpg");
-            filter: grayscale(0%);
-        }
-        .image-hoverq5-container:hover .image-hoverq5 {
-            background-image: url("q5.jpg");
-            filter: grayscale(0%);
-        }.image-hoverq6-container:hover .image-hoverq6 {
-            background-image: url("q6.jpg");
-            filter: grayscale(0%);
-        }.image-hoverq7-container:hover .image-hoverq7 {
-            background-image: url("q7.jpg");
-            filter: grayscale(0%);
-        }.image-hoverq8-container:hover .image-hoverq8 {
-            background-image: url("q8.jpg");
-            filter: grayscale(0%);
-        }.image-hoverq9-container:hover .image-hoverq9 {
-            background-image: url("q9.jpg");
-            filter: grayscale(0%);
-        }.image-hoverq10-container:hover .image-hoverq10 {
-            background-image: url("q10.jpg");
-            filter: grayscale(0%);
-        }.image-hovera23-container:hover .image-hovera23 {
-            background-image: url("23.jpg");
-            filter: grayscale(0%);
-        }.image-hovera24-container:hover .image-hovera24 {
-            background-image: url("24.jpg");
-            filter: grayscale(0%);
-        }.image-hovera25-container:hover .image-hovera25{
-            background-image: url("25.jpg");
+        }.image-hoverhi4-container:hover .image-hoverhi4 {
+            background-image: url("h4.jpg");
             filter: grayscale(0%);
         }
-        .image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        .image-hoverhi5-container:hover .image-hoverhi5 {
+            background-image: url("h5.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi6-container:hover .image-hoverhi6 {
+            background-image: url("h6.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi7-container:hover .image-hoverhi7 {
+            background-image: url("h7.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi8-container:hover .image-hoverhi8 {
+            background-image: url("h8.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi9-container:hover .image-hoverhi9 {
+            background-image: url("h9.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi10-container:hover .image-hoverhi10 {
+            background-image: url("h10.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi11-container:hover .image-hoverhi11 {
+            background-image: url("h11.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi12-container:hover .image-hoverhi12 {
+            background-image: url("h12.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi13-container:hover .image-hoverhi13{
+            background-image: url("h13.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }
+        .image-hoverhi14-container:hover .image-hoverhi14 {
+            background-image: url("h14.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi15-container:hover .image-hoverhi15 {
+            background-image: url("h15.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi16-container:hover .image-hoverhi16 {
+            background-image: url("h16.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi17-container:hover .image-hoverhi17 {
+            background-image: url("h17.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi18-container:hover .image-hoverhi18 {
+            background-image: url("h18.jpg");
             filter: grayscale(0%);
-        }.image-hovera16-container:hover .image-hovera8 {
-            background-image: url("16.jpg");
+        }.image-hoverhi19-container:hover .image-hoverhi19 {
+            background-image: url("h19.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi20-container:hover .image-hoverhi20 {
+            background-image: url("h20.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi21-container:hover .image-hoverhi21 {
+            background-image: url("h21.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi22-container:hover .image-hoverhi22 {
+            background-image: url("h22.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi23-container:hover .image-hoverhi23 {
+            background-image: url("h23.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi24-container:hover .image-hoverh24 {
+            background-image: url("h24.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi25-container:hover .image-hoverh25 {
+            background-image: url("h25.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi26-container:hover .image-hoverh26 {
+            background-image: url("h26.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi27-container:hover .image-hoverh27 {
+            background-image: url("h27.jpg");
+            filter: grayscale(0%);
+        }.image-hoverhi28-container:hover .image-hoverh28 {
+            background-image: url("h28.jpg");
             filter: grayscale(0%);
         }
         .image-hoverb1-container:hover .image-hoverb1 {
@@ -3609,136 +3712,136 @@ opacity: 1;
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq3-container:hover .image-hoverq3-text {
+    }.image-hoverhi3-container:hover .image-hoverhi3-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq4-container:hover .image-hoverq4-text {
+    }.image-hoverhi4-container:hover .image-hoverhi4-text {
         
         bottom: 0;
 
 opacity: 1;
     }
-    .image-hoverq5-container:hover .image-hoverq5-text {
+    .image-hoverhi5-container:hover .image-hoverhi5-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq6-container:hover .image-hoverq6-text {
+    }.image-hoverhi6-container:hover .image-hoverhi6-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq7-container:hover .image-hoverq7-text {
+    }.image-hoverhi7-container:hover .image-hoverhi7-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq8-container:hover .image-hoverq8-text {
+    }.image-hoverhi8-container:hover .image-hoverhi8-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq9-container:hover .image-hoverq9-text {
+    }.image-hoverhi9-container:hover .image-hoverhi9-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hoverq10-container:hover .image-hoverq10-text {
+    }.image-hoverhi10-container:hover .image-hoverhi10-text {
         
         bottom: 0;
 
 opacity: 1;
-    }.image-hovera23-container:hover .image-hovera23-text {
+    }.image-hoverhi11-container:hover .image-hoverhi11-text {
            
            bottom: 0;
 
 opacity: 1;
-       }.image-hovera24-container:hover .image-hovera24-text {
+       }.image-hoverhi12-container:hover .image-hoverhi12-text {
            
            bottom: 0;
 
 opacity: 1;
-       }.image-hovera25-container:hover .image-hovera25-text {
-           
-           bottom: 0;
-
-opacity: 1;
-       }
-       .image-hovera27-container:hover .image-hovera27-text {
+       }.image-hoverhi13-container:hover .image-hoverhi13-text {
            
            bottom: 0;
 
 opacity: 1;
        }
-       .image-hovera28-container:hover .image-hovera28-text {
+       .image-hoverhi14-container:hover .image-hoverhi14-text {
+           
+           bottom: 0;
+
+opacity: 1;
+       }
+       .image-hoverhi15-container:hover .image-hoverhi15-text {
           
           bottom: 0;
 
 opacity: 1;
       }
-      .image-hovera29-container:hover .image-hovera29-text {
+      .image-hoverhi16-container:hover .image-hoverhi16-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera30-container:hover .image-hovera30-text {
+      }.image-hoverhi17-container:hover .image-hoverhi17-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera31-container:hover .image-hovera31-text {
+      }.image-hoverhi18-container:hover .image-hoverhi18-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera32-container:hover .image-hovera32-text {
+      }.image-hoverhi19-container:hover .image-hoverhi19-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera33-container:hover .image-hovera33-text {
+      }.image-hoverhi20-container:hover .image-hoverhi20-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera34-container:hover .image-hovera34-text {
+      }.image-hoverhi21-container:hover .image-hoverhi21-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera35-container:hover .image-hovera35-text {
+      }.image-hoverhi22-container:hover .image-hoverhi22-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera36-container:hover .image-hovera36-text {
+      }.image-hoverhi23-container:hover .image-hoverhi23-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera37-container:hover .image-hovera37-text {
+      }.image-hoverhi24-container:hover .image-hoverhi24-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera38-container:hover .image-hovera38-text {
+      }.image-hoverhi25-container:hover .image-hoverhi25-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera39-container:hover .image-hovera39-text {
+      }.image-hoverhi26-container:hover .image-hoverhi26-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera40-container:hover .image-hovera40-text {
+      }.image-hoverhi27-container:hover .image-hoverhi27-text {
           
           bottom: 0;
 
 opacity: 1;
-      }.image-hovera41-container:hover .image-hovera41-text {
+      }.image-hoverhi28-container:hover .image-hoverhi28-text {
           
           bottom: 0;
 

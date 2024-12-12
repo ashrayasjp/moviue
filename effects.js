@@ -1,5 +1,5 @@
  const flags = [
-    "fi.jpg", "quen.jpg", "hi.jpg"
+    "fi.jpg", "quen.jpg", "hi.jpg" , "sc.jpg"
 ];
 
 

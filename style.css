@@ -654,18 +654,14 @@
         filter: grayscale(0%);
     }
     .image-hoverhi11{
-       
-        width: 320px;
-        height: 280px;
+        background-image: url("h11.jpg");
+       width: 320px;
+       height: 280px;
             
             background-size: cover;
-      
-       background-image: url("h11.jpg");
-           
-           background-size: 200px 230px;
-           filter: grayscale(100%);
-           transition: 0.3s ease-in-out;
-           background-repeat: no-repeat;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+    
         
     }
     .image-hoverhi11:hover { 
@@ -923,10 +919,367 @@
          background-image: url("h29.jpg");
          filter: grayscale(0%);
      }
+     .image-hoverhi28:hover { 
+         background-image: url("h28.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverhi29 {
+        background-image: url("h29.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverhi29:hover { 
+         background-image: url("h29.jpg");
+         filter: grayscale(0%);
+     }
      
      
-     
-     
+     .image-hovers1 {
+        background-image: url("s1.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers1:hover { 
+         background-image: url("s1.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hovers2 {
+        background-image: url("s2.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers2:hover { 
+         background-image: url("s2.jpg");
+         filter: grayscale(0%);
+     } .image-hovers3 {
+        background-image: url("s3.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers3:hover { 
+         background-image: url("s3.jpg");
+         filter: grayscale(0%);
+     } .image-hovers4 {
+        background-image: url("s4.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers4:hover { 
+         background-image: url("s4.jpg");
+         filter: grayscale(0%);
+     } .image-hovers5 {
+        background-image: url("s5.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers5:hover { 
+         background-image: url("s5.jpg");
+         filter: grayscale(0%);
+     } .image-hovers6 {
+        background-image: url("s6.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers6:hover { 
+         background-image: url("s6.jpg");
+         filter: grayscale(0%);
+     } .image-hovers7 {
+        background-image: url("s7.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers7:hover { 
+         background-image: url("s7.jpg");
+         filter: grayscale(0%);
+     } .image-hovers8 {
+        background-image: url("s8.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers8:hover { 
+         background-image: url("s8.jpg");
+         filter: grayscale(0%);
+     } .image-hovers9 {
+        background-image: url("s9.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers9:hover { 
+         background-image: url("s9.jpg");
+         filter: grayscale(0%);
+     } .image-hovers10 {
+        background-image: url("s10.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers10:hover { 
+         background-image: url("s10.jpg");
+         filter: grayscale(0%);
+     } .image-hovers11 {
+        background-image: url("s11.png");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers11:hover { 
+         background-image: url("s11.png");
+         filter: grayscale(0%);
+     } .image-hovers12 {
+        background-image: url("s12.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers12:hover { 
+         background-image: url("s12.jpg");
+         filter: grayscale(0%);
+     } .image-hovers13 {
+        background-image: url("s13.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers13:hover { 
+         background-image: url("s13.jpg");
+         filter: grayscale(0%);
+     } .image-hovers14 {
+        background-image: url("s14.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers14:hover { 
+         background-image: url("s14.jpg");
+         filter: grayscale(0%);
+     } .image-hovers15 {
+        background-image: url("s15.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers15:hover { 
+         background-image: url("s15.jpg");
+         filter: grayscale(0%);
+     } .image-hovers16 {
+        background-image: url("s16.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers16:hover { 
+         background-image: url("s16.jpg");
+         filter: grayscale(0%);
+     } .image-hovers17 {
+        background-image: url("s17.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers17:hover { 
+         background-image: url("s17.jpg");
+         filter: grayscale(0%);
+     } .image-hovers18 {
+        background-image: url("s18.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers18:hover { 
+         background-image: url("s18.jpg");
+         filter: grayscale(0%);
+     } .image-hovers19 {
+        background-image: url("s19.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers19:hover { 
+         background-image: url("s19.jpg");
+         filter: grayscale(0%);
+     } .image-hovers20 {
+        background-image: url("s20.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers20:hover { 
+         background-image: url("s20.jpg");
+         filter: grayscale(0%);
+     } .image-hovers21 {
+        background-image: url("s21.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers21:hover { 
+         background-image: url("s21.jpg");
+         filter: grayscale(0%);
+     } .image-hovers22 {
+        background-image: url("s22.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers22:hover { 
+         background-image: url("s22.jpg");
+         filter: grayscale(0%);
+     } .image-hovers23 {
+        background-image: url("s23.png");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers23:hover { 
+         background-image: url("s23.png");
+         filter: grayscale(0%);
+     } .image-hovers24 {
+        background-image: url("s24.png");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers24:hover { 
+         background-image: url("s24.jpg");
+         filter: grayscale(0%);
+     } .image-hovers25 {
+        background-image: url("s25.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers25:hover { 
+         background-image: url("s25.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hovers26 {
+        background-image: url("s26.jpg");
+        width: 320px;
+             height: 280px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hovers26:hover { 
+         background-image: url("s26.jpg");
+         filter: grayscale(0%);
+     }
     table {
         width: 150px;
             height: 200px;
@@ -1139,7 +1492,7 @@ animation-name: myfirst 0.5 seconds;
         font-size: 20px; }
         .quentin { background: -webkit-linear-gradient(rgb(255, 0, 170), rgb(250, 48, 183), rgb(250, 142, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .hitchcock {  background: -webkit-linear-gradient( black, rgb(136, 136, 126), rgb(255, 214, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
-        .czech-republic {  background: -webkit-linear-gradient(blue , #eee, red); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
+        .scorsese {  background: -webkit-linear-gradient(rgb(255, 251, 0) , #fcff5a, rgb(245, 252, 158)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .croatia { background: -webkit-linear-gradient( red, white , lightblue); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .denmark {  background: -webkit-linear-gradient( red, rgb(255, 181, 181)); -webkit-background-clip: text; -webkit-text-fill-color:transparent;}
         .england {  background: -webkit-linear-gradient( white , red, white); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
@@ -1521,6 +1874,189 @@ animation-name: myfirst 0.5 seconds;
             overflow: hidden;
          
         }
+        .image-hovers1-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers2-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers3-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers4-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers5-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers6-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers7-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers8-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers9-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers10-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers11-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers12-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers13-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers14-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers15-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers16-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers17-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers18-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers19-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers20-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers21-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers22-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers23-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers24-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers25-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hovers26-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        
        
         .image-hoverf1{
             
@@ -1998,7 +2534,220 @@ animation-name: myfirst 0.5 seconds;
             background-repeat: no-repeat;
         }
      
-       
+        .image-hovers1{
+            
+            background-image: url("s1.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovers2{
+            
+            background-image: url("s2.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovers3{
+            
+            background-image: url("s3.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers4{
+            
+            background-image: url("s4.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers5{
+            
+            background-image: url("s5.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers6{
+            
+            background-image: url("s6.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers7{
+            
+            background-image: url("s7.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers8{
+            
+            background-image: url("s8.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers9{
+            
+            background-image: url("s9.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers10{
+            
+            background-image: url("s10.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers11{
+            
+            background-image: url("s11.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers12{
+            
+            background-image: url("s12.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers13{
+            
+            background-image: url("s13.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers14{
+            
+            background-image: url("s14.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers15{
+            
+            background-image: url("s15.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers16{
+            
+            background-image: url("s16.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovers17{
+            
+            background-image: url("s17.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers18{
+            
+            background-image: url("s18.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovers19{
+            
+            background-image: url("s19.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovers20{
+            
+            background-image: url("s20.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers21{
+            
+            background-image: url("s21.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers22{
+            
+            background-image: url("s22.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers23{
+            
+            background-image: url("s23.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers24{
+            
+            background-image: url("s24.png");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers25{
+            
+            background-image: url("s25.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hovers26{
+            
+            background-image: url("s26.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
         .image-hoverf1-text {
             position: absolute;
             bottom: -40px;
@@ -3426,6 +4175,372 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
+        .image-hovers1-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 15px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovers2-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers3-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers4-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 15px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers5-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers6-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers7-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers8-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers9-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers10-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers11-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 16px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers12-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers13-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers14-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers15-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers16-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers17-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers18-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers19-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers20-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers21-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers22-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers23-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers24-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers25-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        } .image-hovers26-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+        color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 16px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
         .image-hoverf1-container:hover .image-hoverf1 {
             background-image: url("f1.jpg");
             filter: grayscale(0%);
@@ -3587,7 +4702,87 @@ animation-name: myfirst 0.5 seconds;
             background-image: url("v1.jpg");
             filter: grayscale(0%);
         }
-        
+        .image-hovers1-container:hover .image-hovers1 {
+            background-image: url("s1.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovers2-container:hover .image-hovers2 {
+            background-image: url("s2.jpg");
+            filter: grayscale(0%);
+        } .image-hovers3-container:hover .image-hovers3 {
+            background-image: url("s3.png");
+            filter: grayscale(0%);
+        }
+        .image-hovers4-container:hover .image-hovers4 {
+            background-image: url("s4.jpg");
+            filter: grayscale(0%);
+        }.image-hovers5-container:hover .image-hovers5 {
+            background-image: url("s5.jpg");
+            filter: grayscale(0%);
+        }.image-hovers6-container:hover .image-hovers6 {
+            background-image: url("s6.jpg");
+            filter: grayscale(0%);
+        }.image-hovers7-container:hover .image-hovers7 {
+            background-image: url("s7.jpg");
+            filter: grayscale(0%);
+        }.image-hovers8-container:hover .image-hovers8 {
+            background-image: url("s8.jpg");
+            filter: grayscale(0%);
+        }.image-hovers9-container:hover .image-hovers9 {
+            background-image: url("s9.jpg");
+            filter: grayscale(0%);
+        }.image-hovers10-container:hover .image-hovers10 {
+            background-image: url("s10.jpg");
+            filter: grayscale(0%);
+        }.image-hovers11-container:hover .image-hovers11 {
+            background-image: url("s11.png");
+            filter: grayscale(0%);
+        }.image-hovers12-container:hover .image-hovers12 {
+            background-image: url("s12.jpg");
+            filter: grayscale(0%);
+        }.image-hovers13-container:hover .image-hovers13 {
+            background-image: url("s13.jpg");
+            filter: grayscale(0%);
+        }.image-hovers14-container:hover .image-hovers14 {
+            background-image: url("s14.jpg");
+            filter: grayscale(0%);
+        }.image-hovers15-container:hover .image-hovers15 {
+            background-image: url("s15.png");
+            filter: grayscale(0%);
+        }.image-hovers16-container:hover .image-hovers16 {
+            background-image: url("s16.jpg");
+            filter: grayscale(0%);
+        }.image-hovers17-container:hover .image-hovers17 {
+            background-image: url("s17.jpg");
+            filter: grayscale(0%);
+        }.image-hovers18-container:hover .image-hovers18 {
+            background-image: url("s18.jpg");
+            filter: grayscale(0%);
+        }.image-hovers19-container:hover .image-hovers19 {
+            background-image: url("s19.png");
+            filter: grayscale(0%);
+        }.image-hovers20-container:hover .image-hovers20 {
+            background-image: url("s20.jpg");
+            filter: grayscale(0%);
+        }.image-hovers21-container:hover .image-hovers21 {
+            background-image: url("s21.jpg");
+            filter: grayscale(0%);
+        }.image-hovers22-container:hover .image-hovers22 {
+            background-image: url("s22.jpg");
+            filter: grayscale(0%);
+        }.image-hovers23-container:hover .image-hovers23 {
+            background-image: url("s23.png");
+            filter: grayscale(0%);
+        }.image-hovers24-container:hover .image-hovers24 {
+            background-image: url("s24.png");
+            filter: grayscale(0%);
+        }.image-hovers25-container:hover .image-hovers25 {
+            background-image: url("s25.jpg");
+            filter: grayscale(0%);
+        }.image-hovers26-container:hover .image-hovers26 {
+            background-image: url("s26.jpg");
+            filter: grayscale(0%);
+        }
         .image-hoverf1-container:hover .image-hoverf1-text {
            
             bottom: 0;
@@ -4075,6 +5270,138 @@ opacity: 1;
 
 opacity: 1;
        }
+       .image-hovers1-container:hover .image-hovers1-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }
+    .image-hovers2-container:hover .image-hovers2-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers3-container:hover .image-hovers3-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers4-container:hover .image-hovers4-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers5-container:hover .image-hovers5-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers6-container:hover .image-hovers6-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers7-container:hover .image-hovers7-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers8-container:hover .image-hovers8-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers9-container:hover .image-hovers9-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers10-container:hover .image-hovers10-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers11-container:hover .image-hovers11-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers12-container:hover .image-hovers12-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers13-container:hover .image-hovers13-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers14-container:hover .image-hovers14-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers15-container:hover .image-hovers15-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers16-container:hover .image-hovers16-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers17-container:hover .image-hovers17-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers18-container:hover .image-hovers18-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers19-container:hover .image-hovers19-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers20-container:hover .image-hovers20-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers21-container:hover .image-hovers21-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers22-container:hover .image-hovers22-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers23-container:hover .image-hovers23-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers24-container:hover .image-hovers24-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers25-container:hover .image-hovers25-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hovers26-container:hover .image-hovers26-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }
         a {
             color: aqua;
         }
